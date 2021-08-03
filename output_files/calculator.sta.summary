@@ -1,0 +1,113 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'counter[25]'
+Slack : -5.864
+TNS   : -119.691
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_50'
+Slack : -2.330
+TNS   : -34.885
+
+Type  : Slow 1200mV 85C Model Setup 'Control_calc:Mc|state.S_2'
+Slack : -1.949
+TNS   : -1.949
+
+Type  : Slow 1200mV 85C Model Hold 'counter[25]'
+Slack : 0.403
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_50'
+Slack : 0.407
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Control_calc:Mc|state.S_2'
+Slack : 1.622
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -36.410
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'counter[25]'
+Slack : -1.285
+TNS   : -34.695
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Control_calc:Mc|state.S_2'
+Slack : 0.413
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'counter[25]'
+Slack : -5.228
+TNS   : -106.366
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -1.956
+TNS   : -28.563
+
+Type  : Slow 1200mV 0C Model Setup 'Control_calc:Mc|state.S_2'
+Slack : -1.769
+TNS   : -1.769
+
+Type  : Slow 1200mV 0C Model Hold 'counter[25]'
+Slack : 0.354
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.365
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Control_calc:Mc|state.S_2'
+Slack : 1.559
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -36.410
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'counter[25]'
+Slack : -1.285
+TNS   : -34.695
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Control_calc:Mc|state.S_2'
+Slack : 0.426
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'counter[25]'
+Slack : -2.550
+TNS   : -50.925
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -0.773
+TNS   : -4.993
+
+Type  : Fast 1200mV 0C Model Setup 'Control_calc:Mc|state.S_2'
+Slack : -0.676
+TNS   : -0.676
+
+Type  : Fast 1200mV 0C Model Hold 'counter[25]'
+Slack : 0.128
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Control_calc:Mc|state.S_2'
+Slack : 1.018
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -37.044
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'counter[25]'
+Slack : -1.000
+TNS   : -27.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Control_calc:Mc|state.S_2'
+Slack : 0.440
+TNS   : 0.000
+
+------------------------------------------------------------
